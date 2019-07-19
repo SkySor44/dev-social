@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://skyler123:skyler123@devsocial-h60u4.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtsecret": "superSecretToken"
+  "jwtsecret": "superSecretToken",
+  "githubClientId": "9715ae96601f9ec6d7a0",
+  "githubSecret": "3bd31130d0018f8266a112119ab4a3d9280289c4"
 }
